@@ -1,0 +1,1 @@
+document.write("This is our javascript being written before anything else");
